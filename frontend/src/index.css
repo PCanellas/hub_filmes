@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Tema base: fundo escuro estilo catálogo de filmes */
+body {
+  @apply bg-neutral-950 text-neutral-100 antialiased;
+}

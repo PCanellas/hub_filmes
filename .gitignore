@@ -1,0 +1,21 @@
+# Ambiente / segredos
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Documento do processo seletivo (não faz parte do código)
+*.pdf
